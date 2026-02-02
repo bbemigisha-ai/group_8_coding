@@ -15,3 +15,25 @@ Last entry: 2026-02-02
 First entry: 2026-02-02
 Last entry: 2026-02-02
 
+----- Analysis of heart_rate_log.log on Mon 02 Feb 2026 11:56:05 AM PST -----
+     94 HeartRate_Monitor_A
+     94 HeartRate_Monitor_B
+First entry: 2026-02-02
+Last entry: 2026-02-02
+
+----- Analysis of temperature_log.log on Mon 02 Feb 2026 11:56:25 AM PST -----
+    140 Temp_Sensor_A
+    140 Temp_Sensor_B
+First entry: 2026-02-02
+Last entry: 2026-02-02
+
+----- Analysis of water_usage_log.log on Mon 02 Feb 2026 11:56:38 AM PST -----
+     86 Water_Meter
+First entry: 2026-02-02
+Last entry: 2026-02-02
+
+----- Analysis of water_usage_log.log on Mon 02 Feb 2026 11:57:41 AM PST -----
+    150 Water_Meter
+First entry: 2026-02-02
+Last entry: 2026-02-02
+
